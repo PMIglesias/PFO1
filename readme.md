@@ -28,7 +28,7 @@ El portafolio presenta información sobre Alex Code, sus proyectos, habilidades,
 - [x] Estilización de botones, formularios, y tablas.
 
 ## Instrucciones
- Visita el proyecto en GitHub Pages: `<URL-de-GitHub-Pages>`.
+ Visita el proyecto en GitHub Pages: `[<PF01>](https://pmiglesias.github.io/PFO1/)`.
 
 ## Notas
 - El formulario no tiene funcionalidad backend (solo frontend).
